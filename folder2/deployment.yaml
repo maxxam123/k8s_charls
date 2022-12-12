@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:v40 
+        image: nginx:v41 
         ports:
         - containerPort: 80
